@@ -1,0 +1,15 @@
+
+.footer {
+   background-color:$color08;
+}
+
+.logo_footer { 
+   cursor: pointer; 
+   margin-left: 150px ;
+   padding: 25px 0;
+   outline: none;
+   @include respond-to(mobile){
+      margin-left: 30px;
+   }
+ 
+}

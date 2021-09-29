@@ -1,0 +1,13 @@
+html {
+   font-size: 62.5%;   
+ }
+
+ body{
+  font-family: $main-fonts;
+ }
+ 
+
+ @import "requirements.scss"; 
+ @import "signup.scss"; 
+ @import "advantages.scss"; 
+ @import "registration.scss"; 
